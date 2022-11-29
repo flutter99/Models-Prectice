@@ -195,7 +195,7 @@ class _MainPageState extends State<MainPage> {
                             onPressed: () {
                               dataList.removeAt(index);
                               setState(() {
-                                
+
                               });
                             },
                             icon: const Icon(
